@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.assignment</groupId>
-	<artifactId>reviewPojo</artifactId>
+	<artifactId>review</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>reviewPojo</name>
 	<description>Review Service</description>
